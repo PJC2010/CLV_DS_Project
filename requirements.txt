@@ -2,3 +2,4 @@ pandas
 lifetimes
 streamlit
 plotly
+matplotlib
