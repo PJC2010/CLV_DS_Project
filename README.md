@@ -2,7 +2,7 @@
 
 This project is a full-stack data science application that predicts the 12-month Customer Lifetime Value (CLV) for an e-commerce customer base. It moves beyond historical analysis to provide forward-looking, actionable insights for financial and marketing strategy. The entire application is deployed as an interactive web dashboard using Streamlit.
 
-![Screenshot of the CLV Dashboard](https://i.imgur.com/8a1Zz7B.png)
+![Screenshot of the CLV Dashboard](https://imgur.com/a/4fpcECg)
 
 ## 1. The Business Problem
 
