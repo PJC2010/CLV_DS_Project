@@ -1,5 +1,7 @@
 import pandas as pd
 import streamlit as st
+import streamlit as st
+from lifetimes.utils import summary_data_from_transaction_data
 from lifetimes import BetaGeoFitter, GammaGammaFitter
 from lifetimes.plotting import plot_period_transactions
 import plotly.graph_objects as go
